@@ -1,5 +1,5 @@
 [package]
-name = "wasm-playground"
+name = "rust-wasm-playground"
 version = "0.1.0"
 authors = ["Chawin Aiemvaravutigul <nick41746@hotmail.com>"]
 edition = "2018"
